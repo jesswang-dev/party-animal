@@ -1,0 +1,11 @@
+#macOS file
+.DS_Store
+
+#package-lock
+package-lock.json
+
+#node_modules
+node_modules
+
+
+
